@@ -1,5 +1,5 @@
 # fake-cli
-### instalation
+### Installation
 ```
 npm i -g .
 ```
