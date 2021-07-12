@@ -5,4 +5,4 @@ npm i -g .
 ```
 
 ### usage
-`fake-cli`
+in terminal (in any path) just run `fake-cli`
