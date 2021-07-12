@@ -1,2 +1,8 @@
 # fake-cli
-just testing cli
+### instalation
+```
+npm i -g .
+```
+
+### usage
+`fake-cli`

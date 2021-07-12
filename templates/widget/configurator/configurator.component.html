@@ -1,0 +1,14 @@
+<brighter-control>
+  <brighter-label>Size</brighter-label>
+  <brighter-select [(ngModel)]="config.size" (ngModelChange)="_changed()">
+    <brighter-option value="small-5">Small-5</brighter-option>
+    <brighter-option value="medium">Medium</brighter-option>
+    <brighter-option value="medium-2">Medium-2</brighter-option>
+    <brighter-option value="medium-4">Medium-4</brighter-option>
+  </brighter-select>
+</brighter-control>
+
+<brighter-control>
+  <brighter-label>Image Url</brighter-label>
+  <input brighterInput [(ngModel)]="config.imageUrl" (ngModelChange)="_changed()" />
+</brighter-control>
