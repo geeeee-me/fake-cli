@@ -4,7 +4,7 @@ import * as ownActions from '../actions/{{selector}}.actions';
 import { {{Selector}}State } from '../type/{{selector}}-state.type';
 
 export const initialState: {{Selector}}State = {
-  data: {},
+  data: undefined,
   isLoading: false,
   error: undefined,
 };
