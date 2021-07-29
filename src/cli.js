@@ -89,7 +89,7 @@ async function mainQuestions() {
     {
       type: "input",
       name: "name",
-      message: "Enter widget name",
+      message: "Enter feature name",
     },
     {
       type: "input",

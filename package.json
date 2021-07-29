@@ -1,10 +1,10 @@
 {
-  "name": "fake-cli",
+  "name": "mp-cli",
   "version": "1.0.0",
   "description": "Mobile platform CLI",
   "main": "bin/create-project",
   "bin": {
-    "fake-cli": "bin/create-project"
+    "mp-cli": "bin/create-project"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
