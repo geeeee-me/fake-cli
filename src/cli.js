@@ -24,6 +24,7 @@ function parseArgumentIntoOptions(rawArgs) {
   };
 }
 
+//
 async function promptForMissingOptions(options) {
   const defaultTemplate = "Widget";
   if (options.skipPrompts) {
